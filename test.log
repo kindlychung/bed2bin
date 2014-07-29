@@ -1,0 +1,23 @@
+PLINK v1.90b1 64-bit (11 May 2014)
+5 arguments: --file test --make-bed --out test
+Hostname: kylenovo
+Working directory: /home/kaiyin/Dropbox/bin/bed2bin
+Start time: Wed May 14 21:38:03 2014
+
+Random number seed: 1400096283
+5832 MB RAM detected; reserving 2916 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (3 variants, 6 people).
+--file: test-temporary.bed + test-temporary.bim + test-temporary.fam written.
+3 variants loaded from .bim file.
+6 people (6 males, 0 females) loaded from .fam.
+3 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+Total genotyping rate is 0.777778.
+3 variants and 6 people pass filters and QC.
+Among remaining phenotypes, 3 are cases and 0 are controls.  (3 phenotypes are
+missing.)
+--make-bed to test.bed + test.bim + test.fam ... done.
+
+End time: Wed May 14 21:38:03 2014
